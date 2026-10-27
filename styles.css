@@ -129,9 +129,11 @@ ul {
     transition: var(--transition);
 }
 
-.resume-btn:hover {
-    background: #e63d8f;
+nav a:hover,
+nav a.active {
+    color: #d63384;
 }
+
 /* HERO */
 
 .hero{
