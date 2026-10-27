@@ -17,5 +17,7 @@ A responsive personal portfolio website that showcases my profile, educational b
 Faith Honey Lou Miranda
 
 ## Live Vercel Link
+(https://faithhoneyloumiranda.vercel.app)
+
 
 
