@@ -18,4 +18,5 @@ Faith Honey Lou Miranda
 
 ## Live Vercel Link
 
-[https://personalcurriculumvitae.vercel.app](https://personalcurriculumvitae.vercel.app)
+[[https://personalcurriculumvitae.vercel.app](https://personalcurriculumvitae.vercel.app)](https://faithhoneyloumiranda.vercel.app)
+
