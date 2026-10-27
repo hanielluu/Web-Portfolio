@@ -10,11 +10,20 @@ html {
 }
 
 :root{
-    --bg:#F6E7D8;
-    --surface:#fff8f2;
-    --primary:#ff4fa2;
-    --text:#2b1c1c;
-    --muted:#a96f78}
+    --:root {
+    --bg: #fff1f6;
+    --surface: #fffafc;
+    --primary: #ff4fa2;
+    --text: #2b1c1c;
+    --muted: #a96f78;
+
+    --dark: #2b1c1c;
+    --light: #fff1f6;
+    --border: #f5d6e4;
+    --shadow: 0 8px 25px rgba(214, 51, 132, 0.08);
+    --radius: 18px;
+    --transition: all 0.3s ease;
+}}
 .dark{
     --bg:#221316;
     --surface:#32181f;
