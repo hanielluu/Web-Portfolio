@@ -9,25 +9,27 @@ html {
     scroll-behavior: smooth;
 }
 
-:root{
-    --:root {
+
+:root {
     --bg: #fff1f6;
     --surface: #fffafc;
     --primary: #ff4fa2;
     --text: #2b1c1c;
     --muted: #a96f78;
-
     --dark: #2b1c1c;
     --light: #fff1f6;
     --border: #f5d6e4;
     --shadow: 0 8px 25px rgba(214, 51, 132, 0.08);
     --radius: 18px;
     --transition: all 0.3s ease;
-}}
-.dark{
-    --bg:#221316;
-    --surface:#32181f;
-    --text:#f6e7d8}
+}
+
+.dark {
+    --bg: #221316;
+    --surface: #32181f;
+    --text: #f6e7d8;
+}
+
 
 body {
     font-family: "Poppins", sans-serif;
@@ -116,11 +118,6 @@ ul {
     transition: var(--transition);
 }
 
-.nav-menu a:hover,
-.nav-menu a.active {
-    color: var(--primary);
-}
-
 .resume-btn {
     background: var(--primary);
     color: rgb(255, 255, 255);
@@ -129,9 +126,9 @@ ul {
     transition: var(--transition);
 }
 
-nav a:hover,
-nav a.active {
-    color: #d63384;
+.nav-menu a:hover,
+.nav-menu a.active {
+    color: var(--primary);
 }
 
 /* HERO */
