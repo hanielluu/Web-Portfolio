@@ -1,45 +1,21 @@
+# Personal CV Portfolio Website
 
-# Personal CV Website — Faith Honey Lou Miranda
+## Short Description
 
-## About the Project
-
-This is my personal CV website developed as part of my IT415 course requirement. It showcases my personal profile, career interests, educational background, technical skills, academic projects, certifications, and contact information.
-
-The website serves as my online portfolio to present my skills and projects for future internship and employment opportunities.
+A responsive personal portfolio website that showcases my profile, educational background, technical skills, academic projects, certificates, and contact information. It serves as my online CV and highlights my skills and achievements as a Bachelor of Science in Information Technology student.
 
 ## Technologies Used
 
-- HTML5 — Website structure
-- CSS3 — Styling, responsive layout, and animations
-- JavaScript — Interactive website features
-- Git and GitHub — Source code management and version control
-- Vercel — Website deployment
+- HTML5
+- CSS3
+- JavaScript
+- Git and GitHub
+- Vercel
 
-## Features
+## Student Name
 
-- Personal profile and career introduction
-- Education and academic background
-- Technical skills
-- Academic projects
-- Certificates and achievements
-- Contact information and LinkedIn profile
-- Responsive design for desktop and mobile devices
-- Hover effects and smooth scrolling
+Faith Honey Lou Miranda
 
-## Student Information
+## Live Vercel Link
 
-**Name:** Faith Honey Lou Miranda
-
-**Program:** Bachelor of Science in Information Technology (BSIT)
-
-**School:** Davao del Norte State College
-
-**Course:** IT415
-
-## Live Website
-
-**Vercel URL:** Add your deployed Vercel link here.
-
-## GitHub Repository
-
-**Repository:** https://github.com/hanielluu/Web-Portfolio
+[https://personalcurriculumvitae.vercel.app](https://personalcurriculumvitae.vercel.app)
